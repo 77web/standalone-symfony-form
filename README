@@ -1,0 +1,18 @@
+CAUTION: The code in this repository is a pilot one. It does not work actually, to my sadness.
+
+
+list of Symfony components to be located in lib/Symfony/Component:
+
+* ClassLoader
+* Config
+* DependencyInjection
+* EventDispatcher
+* Form
+* HttpFoundation
+* OptionsResolver
+* Templating
+* Validator
+
+list of Symfony bundles to be located in lib/Symfony/Bundle:
+
+* FrameworkBundle
